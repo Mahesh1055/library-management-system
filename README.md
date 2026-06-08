@@ -103,8 +103,8 @@ java -cp "out;lib/mysql-connector-j-8.x.x.jar" com.library.main.LibraryApp
 
 | Role  | Email               | Password  |
 |-------|---------------------|-----------|
-| Admin | admin@library.com   | admin123  |
-| User  | john@library.com    | user123   |
+| Admin | admin@gmail.com   | admin123  |
+| User  | user@gmail.com    | user123   |
 
 ---
 
