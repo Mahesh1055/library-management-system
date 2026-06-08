@@ -58,7 +58,7 @@ INSERT INTO members (name, email, phone, role, password) VALUES
 
 -- Default user account   (password: user123)
 INSERT INTO members (name, email, phone, role, password) VALUES
-('John Doe', 'pankaj@gmail.com', '9111111111', 'USER', 'pankaj123');
+('John Doe', 'user@gmail.com', '9111111111', 'USER', 'user123');
 
 -- Sample books
 INSERT INTO books (title, author, genre, isbn, total_copies, available_copies) VALUES
